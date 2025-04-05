@@ -1,0 +1,2 @@
+// src/openaiConfig.js
+export const OPENAI_API_KEY = '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';
